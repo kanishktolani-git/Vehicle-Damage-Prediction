@@ -1,6 +1,6 @@
-streamlit==1.40.2
-Pillow==9.5.0
-torch==2.5.1
-torchvision==0.20.1
+streamlit==1.44.0
+Pillow==11.0.0
+torch==2.7.0
+torchvision==0.22.0
 
 
